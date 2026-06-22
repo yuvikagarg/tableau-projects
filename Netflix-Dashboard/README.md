@@ -36,7 +36,7 @@ This Tableau dashboard provides an interactive analysis of Netflix's content lib
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Dashboard 1.png)
+![Netflix Dashboard](Dashboard%201.png)
 
 ## Skills Demonstrated
 
