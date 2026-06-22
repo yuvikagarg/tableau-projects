@@ -39,7 +39,7 @@ This Tableau dashboard provides insights into hospital operations, patient distr
 
 ## Dashboard Preview
 
-![Healthcare Dashboard](screenshots/healthcare_dashboard.png)
+![Healthcare Dashboard](Preview.png)
 
 ## Skills Demonstrated
 
