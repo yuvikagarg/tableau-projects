@@ -44,7 +44,7 @@ This Tableau dashboard focuses on customer retention, RFM segmentation, profitab
 
 ## Dashboard Preview
 
-![Sales Dashboard](screenshots/sales_dashboard.png)
+![Sales Dashboard](Preview.png)
 
 ## Skills Demonstrated
 
