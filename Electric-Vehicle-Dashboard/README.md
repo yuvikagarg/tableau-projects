@@ -38,7 +38,7 @@ This Tableau dashboard analyzes electric vehicle adoption trends across differen
 
 ## Dashboard Preview
 
-![EV Dashboard](screenshots/ev_dashboard.png)
+![EV Dashboard](TableauProject2.png)
 
 ## Skills Demonstrated
 
