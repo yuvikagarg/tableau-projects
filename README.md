@@ -45,4 +45,4 @@ This repository contains interactive Tableau dashboards developed for data analy
 ## Connect
 
 * GitHub: https://github.com/yuvikagarg
-* Tableau Public: Add Your Tableau Public Profile Link
+* Tableau Public:https://public.tableau.com/app/profile/yuvika.garg/vizzes
